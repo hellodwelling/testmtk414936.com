@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://testmtk414936.com/sitemap.xml
